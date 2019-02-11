@@ -6,7 +6,7 @@ func main() {
     s := []int{10, 7, 100, 99, 8, 66, 78, 33, 57, 24}
     fmt.Println(s)
     quickSort(s)
-	fmt.Println(s)
+    fmt.Println(s)
 }
 
 // 由小到大的快速排序
